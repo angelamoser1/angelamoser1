@@ -1,6 +1,5 @@
 I am a Ph.D. student in the Chemical Engineering department at Rensselaer Polytechnic Institute.
-My work centers around chromatography and mechanisitic modeling.
-Feel free to contact me at angela.r.moser3@gmail.com
+My work centers around chromatography and mechanistic modeling.
 
 <!---
 angelamoser1/angelamoser1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
